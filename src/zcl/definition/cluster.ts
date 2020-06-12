@@ -2378,7 +2378,6 @@ const Cluster: {
                 ID: 0,
                 parameters: [
                     {name: 'armmode', type: DataType.uint8},
-                    {name: 'armmode', type: DataType.uint8},
                 ],
             },
             bypass: {
